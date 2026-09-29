@@ -1,0 +1,4 @@
+interface:
+  display_name: "动态排版短片"
+  short_description: "用代码制作中文产品展示、技术作品集与片头，结合节拍配乐和渲染检查"
+  default_prompt: "请使用 $kinetic-reel 根据我的需求制作视频，先给分镜，再制作并验证成片。"

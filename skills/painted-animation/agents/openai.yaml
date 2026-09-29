@@ -1,0 +1,4 @@
+interface:
+  display_name: "水彩角色动画"
+  short_description: "用代码制作水彩角色短片、分镜、动作与歌词视频，并逐镜头检查后导出"
+  default_prompt: "请使用 $painted-animation 根据我的需求制作视频，先给分镜，再制作并验证成片。"

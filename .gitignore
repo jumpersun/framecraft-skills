@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+out/
+outputs/
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.mp4
+*.mov
+*.flac
+*.wav
+*.mp3
+*.m4a
+*.zip
+.env
+.env.*
